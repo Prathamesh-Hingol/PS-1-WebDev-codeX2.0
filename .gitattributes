@@ -1,0 +1,3 @@
+# Force GitHub Linguist to detect CSS and JS
+*.css linguist-detectable=true
+*.js linguist-detectable=true
