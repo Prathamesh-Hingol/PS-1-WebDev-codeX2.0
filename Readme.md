@@ -25,4 +25,7 @@ This task was aimed at practicing fundamentals like semantic HTML, CSS Flexbox/G
 - 🌗 **Dark/Light Mode Toggle** – a toggle button placed next to the “Login” link switches between dark and light themes dynamically.
 
 ---
+## 🎥 Project Demo
+You can view a short screen recording of the project using the link below:  
+🔗 [Watch the Screen Recording on Google Drive](https://drive.google.com/...)
 
