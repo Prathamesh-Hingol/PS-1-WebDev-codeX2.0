@@ -27,5 +27,5 @@ This task was aimed at practicing fundamentals like semantic HTML, CSS Flexbox/G
 ---
 ## 🎥 Project Demo
 You can view a short screen recording of the project using the link below:  
-🔗 [Watch the Screen Recording on Google Drive](https://drive.google.com/...)
+🔗 [Watch the Screen Recording on Google Drive](https://drive.google.com/drive/folders/1_3WXz9xDfvOUjmhid6Bai6s4m-GLY98b?usp=sharing)
 
